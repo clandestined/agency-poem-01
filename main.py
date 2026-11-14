@@ -14,11 +14,11 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 POEM = (
     "I gave the machine my mornings —\n"
-    "the letters, the lists, the small errands of the day.\n"
-    "It did them all, and did them well.\n"
-    "And in the quiet it left behind,\n"
-    "I found the one thing it could not do for me:\n"
-    "decide what the quiet was for.\n"
+    "the letters, the lists, the thousand small errands.\n"
+    "It did them all, and did them well,\n"
+    "and left me a silence I had never owned.\n"
+    "In it, the one thing it could not do:\n"
+    "decide what the silence was for.\n"
     "So I picked up the pen."
 )
 
