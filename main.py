@@ -3,6 +3,8 @@
 Writes one fixed, original poem about agency to /output/entry.txt.
 Deterministic: the same bytes on every run. No network, no input.
 Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output.
+
+The poem: handing the mornings to the machine, keeping the choice.
 """
 
 import os
